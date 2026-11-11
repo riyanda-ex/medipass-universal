@@ -1,0 +1,7 @@
+{
+  "golongan_darah_valid": ["A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-"],
+  "alergi_berbahaya": ["penicillin", "sulfa", "aspirin", "ibuprofen", "morphine"],
+  "bahasa_valid": ["id", "en"],
+  "standar": "FHIR R4",
+  "versi": "2.0"
+}
